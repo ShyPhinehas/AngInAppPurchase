@@ -1,0 +1,16 @@
+PODS:
+  - AngInAppPurchse (0.1.0)
+
+DEPENDENCIES:
+  - AngInAppPurchse (from `../`)
+
+EXTERNAL SOURCES:
+  AngInAppPurchse:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AngInAppPurchse: 7c92e41d753499e578b14de25fd0bf6bf1ba6547
+
+PODFILE CHECKSUM: 23e17b5b3a5be16a950fce24e358aedc25a3ab40
+
+COCOAPODS: 1.2.1

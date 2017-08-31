@@ -1,0 +1,22 @@
+{
+  "name": "AngInAppPurchse",
+  "version": "0.1.0",
+  "summary": "A short description of AngInAppPurchse.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/skyphinehas@hanmail.net/AngInAppPurchse",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "skyphinehas@hanmail.net": "montelia@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/skyphinehas@hanmail.net/AngInAppPurchse.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AngInAppPurchse/Classes/**/*"
+}

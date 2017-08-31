@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  AngInAppPurchse
+//  IAP
 //
-//  Created by skyphinehas@hanmail.net on 08/31/2017.
+//  Created by skyphinehas@hanmail.net on 08/28/2017.
 //  Copyright (c) 2017 skyphinehas@hanmail.net. All rights reserved.
 //
 

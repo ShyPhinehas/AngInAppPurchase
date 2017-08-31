@@ -1,0 +1,6 @@
+framework module Pods_AngInAppPurchse_Example {
+  umbrella header "Pods-AngInAppPurchse_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

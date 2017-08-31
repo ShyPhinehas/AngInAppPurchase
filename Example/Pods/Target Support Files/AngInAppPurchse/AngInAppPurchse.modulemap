@@ -1,0 +1,6 @@
+framework module AngInAppPurchse {
+  umbrella header "AngInAppPurchse-umbrella.h"
+
+  export *
+  module * { export * }
+}
