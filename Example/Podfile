@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AngInAppPurchse_Example' do
+  pod 'AngInAppPurchse', :path => '../'
+
+  target 'AngInAppPurchse_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
